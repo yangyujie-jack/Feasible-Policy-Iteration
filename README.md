@@ -13,7 +13,7 @@ pip install --upgrade "jax[cuda11_pip]" -f https://storage.googleapis.com/jax-re
 
 pip install safety-gymnasium
 
-git clone git@git.tsinghua.edu.cn:yangyj21/fpi.git
+git clone https://github.com/yangyujie-jack/Feasible-Policy-Iteration.git
 cd fpi
 pip install -e .
 ```
